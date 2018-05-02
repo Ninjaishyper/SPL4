@@ -2,5 +2,5 @@
 # Mittwoch, 2.Mai 2018
 # Java Training
 
-*Wiederholung Git
+* Wiederholung Git
 * Training Java
